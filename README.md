@@ -53,4 +53,6 @@ When everything came together, we ran tests in the tunnel. The balance captured 
 
 ## Reflections  
 
-The project was more than just a technical build - it was an exercise in teamwork across disciplines. Our force balance told a story of collaboration, problem-solving, and the kind of learning that only happens when theory meets practice! 
+This project really opened my eyes to cross-disciplinary work, and seeing how all the pieces came together was an amazing experience! I’m grateful I had the chance to work with such a strong team. 
+
+Two big take aways for me were 1. In a team setting, over-communicating is almost always better than under-communicating. 2. It’s not just about thinking outside the box - it’s about finding the box.
