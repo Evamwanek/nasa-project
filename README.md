@@ -1,5 +1,3 @@
-# nasa-project.github.io
-
 # NASA Design Project – Force Balance Wind Tunnel  
 
 This project began with a simple idea: build a system that could measure lift and drag inside a wind tunnel. It grew into a collaboration that blended electrical engineering, mechanical design, and aerospace principles into one working prototype.  
